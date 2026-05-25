@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://files.catbox.moe/nhg5ko.png" alt="˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼" width="400"/>
+  <img src="https://i.postimg.cc/BZk3gG67/IMG-20260525-222527-775.jpg" alt="𝙈 𝘼 𝙍 𝙄 𝙉" width="400"/>
   
-  # 🎵 ˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼
+  # 🎵 𝙈 𝘼 𝙍 𝙄 𝙉
 
   
   <p><b>A Powerful Telegram Music Player Bot</b></p>
@@ -67,8 +67,8 @@ bash start
 
 ## 📞 Support & Contact
 
-- **Telegram Channel**: [Artist bots](https://t.me/Artistbots)
-- **Support Group**: [Elevenyts Music](https://t.me/elevenytsmusic) 
+- **Telegram Channel**: [ray bots](https://t.me/marin_channel_sp)
+- **Support Group**: [marin Music](https://t.me/marin_support) 
 
 ---
 
@@ -83,8 +83,8 @@ bash start
 
 <div align="center">
   
-  ### Made with ❤️ by Artist 
+  ### Made with ❤️ by ray
   
-  **© 2025 ˹ꜱʜʀɪ ᴍᴜꜱɪᴄ˼. All rights reserved.**
+  **© 2025 𝙈 𝘼 𝙍 𝙄 𝙉. All rights reserved.**
   
 </div>
