@@ -75,8 +75,8 @@ class Thumbnail:
             bg = bg.filter(ImageFilter.GaussianBlur(2))
             draw = ImageDraw.Draw(bg)
 
-            _a = decode_text("QVJUSVNU")
-            _b = decode_text("QVJUSVNUQk9UUw==")
+            _a = decode_text("RUxJVEUgU1FVQUQ=")
+            _b = decode_text("RUxJVEUgU1FVQUQ=")
 
             colors = [(255, 0, 150), (0, 200, 255), (255, 200, 0)]
 
