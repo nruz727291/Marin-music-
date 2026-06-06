@@ -7,17 +7,10 @@ running_tagall = {}
 
 
 # ✅ SAFE ADMIN + OWNER CHECK
-async def is_admin_or_owner(chat_id, user_id):
-    try:
-        member = await app.get_chat_member(chat_id, user_id)
+member = await app.get_chat_member(message.chat.id, message.from_user.id)
 
-        return member.status in (
-            "administrator",
-            "creator"
-        )
-
-    except Exception:
-        return False
+if member.status not in ("administrator", "creator"):
+    return await message.reply_text("❌ Admins only can use this command.")
 
 
 @app.on_message(filters.command("tagall") & filters.group)
